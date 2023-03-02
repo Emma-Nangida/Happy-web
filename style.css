@@ -1,0 +1,42 @@
+.top{
+  display: flex;
+
+  
+  
+}
+.itop{
+  align-items: center;
+display: flex
+width: 300px left;
+height:200px
+top:900px
+bottom:500
+}
+.top{
+  display=flex
+  flex-direction;left: left: 50px ,60px
+  text align;center
+}
+.dives{
+  display: flex;  
+  width: 200px;
+  height: 200px;
+}
+.dives2{
+  display: flex;
+  width:150px;
+  height: 150px;
+}
+.dives3{
+  flex-direction:column ;
+  width :25%
+  height: 200px;px;
+}
+.done{
+  background-color:#222224;
+  color:f8f8f8;
+}
+.bottom{
+  display:flex;
+  width: 2%;
+}
